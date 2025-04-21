@@ -1,6 +1,9 @@
 {
     "name": "numeira.ndpcss.runtime",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDKBase"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

@@ -1,6 +1,11 @@
 {
     "name": "numeira.ndpcss.editor",
-    "references": [ ],
+    "rootNamespace": "",
+    "references": [
+        "numeira.ndpcss.runtime",
+        "nadena.dev.ndmf",
+        "nadena.dev.ndmf.runtime"
+    ],
     "includePlatforms": [
         "Editor"
     ],
